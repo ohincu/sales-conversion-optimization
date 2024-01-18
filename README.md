@@ -30,7 +30,11 @@ These main questions are raised throughout the analysis:
 From the data observed these conclusions can be made:
 - Conversion Rates: Conversion rates are higher than the average Facebook conversion rates.
 - Purchases: In about 30% of cases people buy the product after enquiring about it.
-- Gender Differences: Women tend to click more on ads than men, however, they buy less products across all present age groups.
+- Gender Differences: Women tend to click more on ads than men, however, they buy less products across all present age groups, and
+that results in higher conversion costs.
+
+![](plots/CTR_by_gender_age.png)
+
 
 To gain a deeper understanding of campaign performance and make more informed decisions, 
 it's essential to consider the following data points for future analysis:
